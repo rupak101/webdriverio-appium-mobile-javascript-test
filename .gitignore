@@ -1,0 +1,7 @@
+reports
+node_modules
+.idea
+allure-report
+.DS_store
+/allure-results
+
